@@ -1,52 +1,18 @@
 {
-  "toys": [
+  "wods": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "id": "1",
+      "workout": "This is a team workout, with one person working at a time. Reps displayed is to be split up between each team member. 20 min AMRAP: 10 c2b, 10 cals row then 20 c2b, 20 cals row then 30 c2b, 30 cals row. Keep adding 10 reps to the pullups and cals after you finish set.",
+      "score": "Score is total number of reps performed",
+      "likes": 54,
+      "review": ""
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    },
-    {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
-    },
-    {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
-    },
-    {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "id": "2",
+      "workout": "Diane, 21-15-9 reps for time, and the lifts are deadlift at (225/155) and HSPU. Time cap is 20 mins. After you finish all reps perform a farmers carry at your weight of choice with either kettle bells or dumbells for 400m.",
+      "score": "Score is min:sec",
+      "likes": 189,
+      "review": ""
     }
   ]
 }
