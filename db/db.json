@@ -1,18 +1,16 @@
 {
   "wods": [
     {
-      "id": "1",
+      "id": 1,
       "workout": "This is a team workout, with one person working at a time. Reps displayed is to be split up between each team member. 20 min AMRAP: 10 c2b, 10 cals row then 20 c2b, 20 cals row then 30 c2b, 30 cals row. Keep adding 10 reps to the pullups and cals after you finish set.",
       "score": "Score is total number of reps performed",
-      "likes": 54,
-      "review": ""
+      "likes": 54
     },
     {
-      "id": "2",
+      "id": 2,
       "workout": "Diane, 21-15-9 reps for time, and the lifts are deadlift at (225/155) and HSPU. Time cap is 20 mins. After you finish all reps perform a farmers carry at your weight of choice with either kettle bells or dumbells for 400m.",
       "score": "Score is min:sec",
-      "likes": 189,
-      "review": ""
+      "likes": 189
     }
   ]
 }
