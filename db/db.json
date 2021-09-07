@@ -2,13 +2,21 @@
   "wods": [
     {
       "id": 1,
-      "workout": "This is a team workout, with one person working at a time. Reps displayed is to be split up between each team member. 20 min AMRAP: 10 c2b, 10 cals row then 20 c2b, 20 cals row then 30 c2b, 30 cals row. Keep adding 10 reps to the pullups and cals after you finish set.",
+      "workout": "This is a team workout, with one person working at a time. Reps displayed is to be split up between each team member. 20 min AMRAP: 10 c2b(chest to bar), 10 cals row then 20 c2b, 20 cals row then 30 c2b, 30 cals row. Keep adding 10 reps to the pullups and cals after you finish set.",
       "scoring": "Score is total number of reps performed",
+      "altMovements": "For the row: ring rows, bent over row. For the c2b: pull-ups, box jump pull-ups, banded pull-ups."
     },
     {
       "id": 2,
-      "workout": "Diane, 21-15-9 reps for time, and the lifts are deadlift at (225/155) and HSPU. Time cap is 20 mins. After you finish all reps perform a farmers carry at your weight of choice with either kettle bells or dumbells for 400m.",
+      "workout": "Diane, 21-15-9 reps for time, and the lifts are deadlift at (225/155) and HSPU(Handstand Pushup). Time cap is 20 mins. After you finish all reps perform a farmers carry at your weight of choice with either kettle bells or dumbells for 400m.",
       "scoring": "Score is min:sec",
+      "altMovements": "For the deadlift: You may use lighter weight, glute bridge, barbell hip thrust. For the HSPU, pike/box pushups, dumbbell push press at your weight of choice."
+    },
+    {
+      "id": 3,
+      "workout": "10 EMO2M(every minute on for 2 minutes), Station 1(first 2 minutes): (12/10) cals on bike + 10 total double dumbbell/kettlebell box step over. Box: (24in/20in). Weight(50/35). Station(next 2 minutes): 200m run + 10 t2b(toes 2 bar). Alternate each station every 2 minutes, when you finish reps rest for whatever remains of the 2 minutes.",
+      "scoring": "Score is a pass for doing the workout, but only fully completed if you finish all the reps within those 2 minutes.",
+      "altMovements": "For the bike: run 200m. For the box step over: less weight, farmers carry, squats. For the run: Bike (12/10). For the t2b: v-ups, sit-ups."
     }
   ]
 }
